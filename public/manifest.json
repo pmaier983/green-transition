@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Green Transition",
+  "short_name": "greenTransition",
+  "version": "1.0.0",
+  "description": "A Chrome Extension to help you find your next green job!",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "GreenTransition"
+  }
+}
