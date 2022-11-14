@@ -1,7 +1,7 @@
 import type { NextPage } from "next"
 
 import { ChromeExtension } from "@/components/ChromeExtension"
-import { AppWrapper } from "@/components/AppWrapper"
+import { AppWrapper } from "@/AppWrapper"
 
 const Home: NextPage = () => (
   <AppWrapper>
